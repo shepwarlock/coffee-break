@@ -23,7 +23,7 @@
         {
             "label": "We Are Hiring",
             "altText": "",
-            "url": "/blog",
+            "url": "/we-are-hiring",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
