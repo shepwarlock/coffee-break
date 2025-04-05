@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "What We Do",
-            "url": "/pricing",
+            "url": "/what-we-do",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
